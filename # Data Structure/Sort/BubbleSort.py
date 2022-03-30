@@ -1,3 +1,6 @@
+import sys
+
+sys.stdin.realine()
 
 def bubble_sort(unordered):
     iteration = len(unordered) - 1 # n-1 번 iteration
